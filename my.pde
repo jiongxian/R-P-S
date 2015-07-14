@@ -1,4 +1,4 @@
-/* @pjs preload="1.jpg,2.JPG,3.JPG" */
+/* @pjs preload="1.JPG,2.JPG,3.JPG" */
 PImage[] img = new PImage[3];
 int AIchoice, Playerchoice = int(random(3));
 int state = 0;
